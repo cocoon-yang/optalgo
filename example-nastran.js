@@ -2,7 +2,6 @@
 //
 //   Version 0.3
 //     positive and negative variablse
-//   Date: 13:49 2017/12/17
 //
 
 
